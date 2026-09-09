@@ -1,0 +1,30 @@
+{
+  "color": "rgba(0, 123, 255, 1)",
+  "intentInputTypes": [
+    "URLs"
+  ],
+  "contributors": [],
+  "version": "1.0.2",
+  "remoteResource": {
+    "hash": "0360b9fbed4d79eeb4ee038dd9dbbf5e",
+    "url": "https://raw.githubusercontent.com/sky4sky/Ant/main/PinPlus.scripting?t=1787666818656",
+    "autoUpdateInterval": 3600
+  },
+  "iconImage": "",
+  "localizedNames": {},
+  "name": "PinPlus",
+  "runInApp": false,
+  "author": {
+    "email": null,
+    "name": "coo11",
+    "homepage": null
+  },
+  "permissions": [
+    "clipboard",
+    "fileSystem"
+  ],
+  "localizedDescriptions": {},
+  "entry": "index.tsx",
+  "icon": "pin",
+  "description": "剪贴板管理工具 — 记录常用文本，一键复制，支持小组件。"
+}
